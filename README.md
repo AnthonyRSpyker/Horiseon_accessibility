@@ -4,10 +4,10 @@ This repository contains HTML and style page for the Horiseon web site.  The cod
 
 Index:
 
-  -demo.png- A screen shot mock up of the page
-  -images folder: png's of all photos used on page
-  -index.html- The HTML file
-  -index.css- The CSS file
-  -demo.png- A screen shot mock up of the page
+  *demo.png- A screen shot mock up of the page
+  *images folder: png's of all photos used on page
+  *index.html- The HTML file
+  *index.css- The CSS file
+  
   
   
