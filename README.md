@@ -19,5 +19,13 @@ Basic functions on site:
 
   - tool bar at the top of the page links you to paragraphs at the bottom of the page.
   
+Utilities performed for the website:
+
+  - The code for this site was reformated to with proper html elements in order to ensure SEO.
+  - The images on this site were accompanied by alt tags in order to ensure proper readability for all users.
+  - The style code was ordered so that it flowed more consicely with the related html.  
+  - The style code was consollidated so that it took up less space.
+  - All operations were performed without comprimising the original designa and flow of the website.
+  
   
   
