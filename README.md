@@ -17,7 +17,7 @@ Contents of Develop folder:
   
 Basic functions on site:
 
-  - The tool bar at the top of the page links you to paragraphs at the bottom of the page.
+  - The items in the navigation bar at the top of the page links you to corrisponding paragraphs at the bottom of the page.
   
 Utilities performed for the website:
 
